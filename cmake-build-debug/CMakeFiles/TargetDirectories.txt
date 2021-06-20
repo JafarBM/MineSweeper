@@ -1,4 +1,0 @@
-/home/morpheus/CLionProjects/AP_MAHLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/morpheus/CLionProjects/AP_MAHLA/cmake-build-debug/CMakeFiles/AP_MAHLA.dir
-/home/morpheus/CLionProjects/AP_MAHLA/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/morpheus/CLionProjects/AP_MAHLA/cmake-build-debug/CMakeFiles/AP_MAHLA_autogen.dir
